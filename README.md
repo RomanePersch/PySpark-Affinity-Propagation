@@ -7,5 +7,6 @@ Iris dataset is used as an example.
 
 **AP_Sport** (Notebook) : application on the Daily and Sports Activities Data Set (https://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities)
 
+**data_treatment** (Notebook) : Preprocessing of the Daily and Sports Activities Data
 
 
